@@ -1,0 +1,7 @@
+tensorboardX==1.2
+torch==0.4.0 -f https://download.pytorch.org/whl/cu91/torch_stable.html
+torchvision==0.2.1 -f https://download.pytorch.org/whl/cu91/torch_stable.html
+bokeh
+pyyaml
+pandas
+typing
