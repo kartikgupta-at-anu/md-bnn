@@ -60,6 +60,13 @@ If you make use of this code in your own work, please cite our papers:
   year={2021},
   organization={PMLR}
 }
+@inproceedings{ajanthan2019proximal,
+  title={Proximal mean-field for neural network quantization},
+  author={Ajanthan, Thalaiyasingam and Dokania, Puneet K and Hartley, Richard and Torr, Philip HS},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={4871--4880},
+  year={2019}
+}
 ```
 
 #### Contact
